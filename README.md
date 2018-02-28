@@ -8,6 +8,10 @@ But launching fast does not have to mean that you cut corners and lower your sta
 ## Contents
 
 -   [API Guidelines](/api-guidelines)
+-   [Deployment checklist](/deployment-checklist)
+-   [SEO checklist](/seo-checklist)
+-   [Security checklist](/security-checklist)
+
   
 
 ## License
