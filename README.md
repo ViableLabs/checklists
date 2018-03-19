@@ -1,17 +1,18 @@
 # Checklists
 
-Viable Labs is a Zürich based agency that helps startups go to market fast with a product that users will love. We pride ourselves in building products fast: new ideas come to life every day and as an entrepreneur you don’t want to spend years building the perfect version of your product and then realizing that it’s too late — competition already took your place; or that your product doesn’t fit the market anymore.
+At Viable Labs we pride ourselves in building products fast: new ideas come to life every day, and as an entrepreneur, you don’t want to spend years creating the perfect version of your product and then realizing that it’s too late — competition already took your place if there is a market at all.
 
 
-But launching fast does not have to mean that you cut corners and lower your standards. It’s all too easy to fall in a trap and launch a mediocre product that crashes everywhere and call that an MVP. Instead, we chose to focus on finding the right balance between too little and too much QA investment. Aside from our manual / exploratory and automated QA stages, we set about defining checklists that would help us quickly evaluate whether a product is in a good shape or not.
-
-## Contents
+But launching fast should not mean that you cut corners and lower your standards. It’s all too easy to fall into a trap and publish a mediocre product that crashes everywhere and call that an MVP forgetting all about the Viable part. Instead, we chose to focus on finding the right balance between too little and too much QA. 
+To allow us to do so, we have defined checklists that help us to quickly evaluate whether a product is in good shape or not: 
 
 -   [API Guidelines](/api-guidelines)
 -   [Deployment checklist](/deployment-checklist)
 -   [SEO checklist](/seo-checklist)
 -   [Security checklist](/security-checklist)
 
+
+These checklists allow for a quick assessment of where a project stands and whether action needs to be taken before a release.
   
 
 ## License
